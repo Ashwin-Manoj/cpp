@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main () {
-  std::cout << "new run!\n";
+  std::cout << "Hello, World!\n";
 
   return 0;
 }
