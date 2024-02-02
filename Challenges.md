@@ -13,7 +13,7 @@
 
 **Solution**:
 
-- Well the solution for that was simple i just need to download a extension called `code runner` and using the option `Run file` instead of `Run c/c++ file`
+- Well the solution for that was simple i just need to download a extension called `code runner` and using the option `Run Code` instead of `Run c/c++ file`
 - [Article that helped me to solve this problem](https://www.freecodecamp.org/news/how-to-write-and-run-c-cpp-code-on-visual-studio-code/)
 
 ---
